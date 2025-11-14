@@ -1,0 +1,3 @@
+pmid,pmcid,title,virus,protein,mutation,position,confidence,quote,target_type
+12345678,PMC123456,Test Paper: Viral Mutations and Their Effects,Chikungunya virus,E1,p.Ala226Val,226,0.8,The single-point mutation A226V in E1 increased transmission by Ae. albopictus.,mutation
+12345678,PMC123456,Test Paper: Viral Mutations and Their Effects,Dengue virus,NS3,p.Lys128Glu,128,0.8,Mutation K128E in NS3 protein significantly reduced viral replication in cell culture.,mutation
